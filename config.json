@@ -1,7 +1,7 @@
 {
- "pool_address":"public-pool.io",
- "pool_port": 21496,
- "user_name":"bc1qp84qrxsntmpyekp9vzdenlt8khnj0h4wqafeqe",
- "password":"x",
+ "pool_address":"stratum+tcp://btc.f2pool.com:",
+ "pool_port": 1314,
+ "user_name":"odionomoregbe77.001",
+ "password":"21235365876986800",
  "min_diff":0.01
 }
